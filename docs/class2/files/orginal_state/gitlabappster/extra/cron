@@ -1,2 +1,0 @@
-# Start appster on boot
-@reboot ( sleep 60 ; sh /var/www/appster/start.sh)
