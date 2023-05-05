@@ -1,15 +1,4 @@
-F5 Agility Labs - Index
-=======================
+Welcome
+=======
 
-Welcome to the |classbold| lab at F5 Agility |year|
-
-|repoinfo|
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   :glob:
-
-   class5/class*
-
-   
+Welcome to the NAP Lab Guide - it is an archive for UDP NAP Blueprint
